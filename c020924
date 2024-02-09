@@ -1,0 +1,62 @@
+# Class 02/09/24
+---
+## Time
+* Represented as number in seconds since epoch
+* **Struct**: breaks out the year, month, days, etc
+
+## Data Structures
+* **Native Data Types**: char, short, int, long, long long, float, double
+* **Structures**: Suitcase of different things
+
+### Structure
+```
+struct [name] {
+	member1; // ex: char name[MAX_VAT_NAME];
+	member2;
+	...
+} [variable1] [variable2] ...; // Allocating memory
+```
+* Structures must have a name, variable or both
+* Once a struct is declared (or defined) it cant be modified
+* Can contain any native datatype or another struct
+* *name* of a struct is similar to a typedef
+* *variable* si where memory is allocated
+
+### Defining a struct
+```
+struct point {
+	int x;
+	int y;
+};
+
+struct point aPoint;
+```
+
+### Initializing a struct
+```
+struct point {
+	int x;
+	int y;
+};
+
+struct point aPoint {100, 200};
+```
+
+### Accessing a struct
+
+variable_name.member_name // Access structure
+
+```
+struct point {
+	int x;
+	int y;
+};
+
+struct point aPoint;
+
+aPoint.x // gives 100
+aPoint.x = -314;
+aPoint.x // gives -314
+```
+
+

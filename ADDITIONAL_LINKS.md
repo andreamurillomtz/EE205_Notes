@@ -9,3 +9,8 @@
 ## ASCII
 * [ASCII Table](https://www.sciencebuddies.org/science-fair-projects/references/ascii-table)
 * [Another ASCII Table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_characters)
+
+## Reference
+* [C++ Reference](https://en.cppreference.com/w/)
+* [Time](https://en.cppreference.com/w/c/chrono)
+* [Headers](https://en.cppreference.com/w/c/header)
