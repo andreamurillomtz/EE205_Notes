@@ -8,4 +8,4 @@
 
 ## ASCII
 * [ASCII Table](https://www.sciencebuddies.org/science-fair-projects/references/ascii-table)
-
+* [Another ASCII Table](https://en.wikipedia.org/wiki/ASCII#ASCII_printable_characters)
